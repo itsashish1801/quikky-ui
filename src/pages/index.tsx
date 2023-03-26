@@ -12,7 +12,9 @@ export default function Home() {
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link rel='icon' href='/quikky.svg' />
       </Head>
-      <main></main>
+      <main>
+        <h1>Hello from Quikky</h1>
+      </main>
     </>
   );
 }
